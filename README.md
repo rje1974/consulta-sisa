@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="alerta-sisa_1.png" alt="consulta-sisa" width="240">
+</p>
+
 # consulta-sisa
 
 > Monitoreá tu estado en el padrón SISA de AFIP/ARCA. Tres formas de
