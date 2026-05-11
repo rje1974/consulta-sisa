@@ -1,0 +1,29 @@
+{
+  "name": "consulta-sisa-app",
+  "version": "0.1.0",
+  "description": "Monitor del padrón SISA (RG 4310) de AFIP/ARCA con diff y notificaciones",
+  "license": "MIT",
+  "author": "Juan Eduardo Riva",
+  "type": "module",
+  "main": "dist/index.js",
+  "bin": {
+    "consulta-sisa": "dist/index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "tsx src/index.ts",
+    "dev": "tsx --watch src/index.ts"
+  },
+  "dependencies": {
+    "commander": "^12.0.0",
+    "dotenv": "^17.4.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
