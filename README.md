@@ -90,6 +90,14 @@ Padrón público SISA (RG 4310):
 
 Publicado por AFIP/ARCA. Actualizado diariamente. Sin autenticación.
 
+## Soporte
+
+Esto se publica tal cual está. Las consultas van por los issues del repo, sin plazo
+de respuesta: lo contesto cuando puedo. No hay soporte por correo ni por teléfono.
+
+El padrón lo publica ARCA y puede cambiar de formato sin avisar. No es asesoramiento
+profesional — el uso es responsabilidad de quien lo usa.
+
 ## Si te sirvió
 
 ⭐ Dejame una estrella en el repo o invitame
